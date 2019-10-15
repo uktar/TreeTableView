@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		084F8B41235563B3007572FA /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 084F8B40235563B3007572FA /* TreeNode.swift */; };
 		084F8B4323559754007572FA /* TreeData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 084F8B4223559754007572FA /* TreeData.swift */; };
-		084F8B472355A042007572FA /* LayerOneRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 084F8B462355A042007572FA /* LayerOneRow.swift */; };
 		08C972A2234C391700DFAC63 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08C972A1234C391700DFAC63 /* AppDelegate.swift */; };
 		08C972A4234C391700DFAC63 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08C972A3234C391700DFAC63 /* SceneDelegate.swift */; };
 		08C972A6234C391700DFAC63 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08C972A5234C391700DFAC63 /* ContentView.swift */; };
@@ -43,7 +42,6 @@
 /* Begin PBXFileReference section */
 		084F8B40235563B3007572FA /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
 		084F8B4223559754007572FA /* TreeData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeData.swift; sourceTree = "<group>"; };
-		084F8B462355A042007572FA /* LayerOneRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayerOneRow.swift; sourceTree = "<group>"; };
 		08C9729E234C391700DFAC63 /* TreeTableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TreeTableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		08C972A1234C391700DFAC63 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		08C972A3234C391700DFAC63 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -122,7 +120,6 @@
 				08C972D3234C3D3300DFAC63 /* NodeData.swift */,
 				084F8B40235563B3007572FA /* TreeNode.swift */,
 				08C972D5234C3DD900DFAC63 /* DataRow.swift */,
-				084F8B462355A042007572FA /* LayerOneRow.swift */,
 				08C972D7234C3FD300DFAC63 /* DataList.swift */,
 			);
 			path = TreeTableView;
@@ -286,7 +283,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				084F8B41235563B3007572FA /* TreeNode.swift in Sources */,
-				084F8B472355A042007572FA /* LayerOneRow.swift in Sources */,
 				08C972A2234C391700DFAC63 /* AppDelegate.swift in Sources */,
 				08C972D4234C3D3300DFAC63 /* NodeData.swift in Sources */,
 				084F8B4323559754007572FA /* TreeData.swift in Sources */,
