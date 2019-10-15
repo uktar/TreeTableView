@@ -9,8 +9,10 @@
 import SwiftUI
 
 struct ContentView: View {
+
+    let dataArray = treeModel.rootNode.getVisibleNodeList()
     var body: some View {
-        Text("Hello World")
+        DataList(nodeDataList: dataArray)
     }
 }
 
